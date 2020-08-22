@@ -1,0 +1,26 @@
+#logo-nav{
+    width: 150px;
+}
+
+body{
+    background-color: rgb(248, 246, 246);
+}
+
+#titulo-tarjetas{
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#contenedor-tarjetas{
+    display: flex;
+    align-items: center;
+}
+#vehiculo-slide {
+    background-image: url(https://http2.mlstatic.com/resources/frontend/classifieds-homes-premium/motors/0.0.1/ar/heading--xl.jpg);
+    background-size: cover;
+    height: 375px;
+}
+#boton-auto {
+    display: block;
+    margin: auto;
+}
